@@ -16,7 +16,6 @@ The solution adopted for the client/server chatroom was to create 5 classes, nam
 *	https://stackoverflow.com/questions/22396282/how-to-set-text-like-placeholder-in-jtextfield-in-swing 
 *	https://fullstackmastery.com/ 
 *	https://github.com/freekickr/SimpleChat 
-*	https://stackoverflow.com/questions/54482125/jtextpane-how-to-set-text-in-superscript  - did not help other than to get me thinking about possible parameters
 *	https://stackoverflow.com/questions/22396282/how-to-set-text-like-placeholder-in-jtextfield-in-swing 
 *	https://stackoverflow.com/questions/7080205/popup-message-boxes 
 *	https://www.geeksforgeeks.org/serialization-in-java/ 
