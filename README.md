@@ -12,12 +12,12 @@ The solution adopted for the client/server chatroom was to create 5 classes, nam
 8. Logging out is performed by pressing the "Logout" button
 
 ## Resources and acknowledgements
-•	https://www.dreamincode.net/forums/topic/259777-a-simple-chat-program-with-clientserver-gui-optional/ 
-•	https://stackoverflow.com/questions/22396282/how-to-set-text-like-placeholder-in-jtextfield-in-swing 
-•	https://fullstackmastery.com/ 
-•	https://github.com/freekickr/SimpleChat 
-•	https://www.youtube.com/watch?v=ZIzoesrHHQo&t=902s  – David Dobervich - example, of what I am led to believe, is not good OO practice thus abandoned
-•	https://stackoverflow.com/questions/54482125/jtextpane-how-to-set-text-in-superscript  - did not help other than to get me thinking about possible parameters
-•	https://stackoverflow.com/questions/22396282/how-to-set-text-like-placeholder-in-jtextfield-in-swing 
-•	https://stackoverflow.com/questions/7080205/popup-message-boxes 
-•	https://www.geeksforgeeks.org/serialization-in-java/ 
+* https://www.dreamincode.net/forums/topic/259777-a-simple-chat-program-with-clientserver-gui-optional/ 
+*	https://stackoverflow.com/questions/22396282/how-to-set-text-like-placeholder-in-jtextfield-in-swing 
+*	https://fullstackmastery.com/ 
+*	https://github.com/freekickr/SimpleChat 
+*	https://www.youtube.com/watch?v=ZIzoesrHHQo&t=902s  – David Dobervich - example, of what I am led to believe, is not good OO practice thus abandoned
+*	https://stackoverflow.com/questions/54482125/jtextpane-how-to-set-text-in-superscript  - did not help other than to get me thinking about possible parameters
+*	https://stackoverflow.com/questions/22396282/how-to-set-text-like-placeholder-in-jtextfield-in-swing 
+*	https://stackoverflow.com/questions/7080205/popup-message-boxes 
+*	https://www.geeksforgeeks.org/serialization-in-java/ 
